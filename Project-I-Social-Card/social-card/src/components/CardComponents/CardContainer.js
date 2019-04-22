@@ -8,11 +8,11 @@ import CardBanner from './CardBanner';
 
 const CardContainer = () => {
     return (
-        <div className = "banner-wrapper">
+        <div className="banner-wrapper">
             <CardBanner />
             <CardContent />
         </div>
     );
 }
-                            
+
 export default CardContainer;
