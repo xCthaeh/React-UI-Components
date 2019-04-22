@@ -10,10 +10,8 @@ const CardContent = () => {
         React makes it painless to make interactive UI's. Design simple views
         for each state in your application.
         </p>
-      <a
-        href="http://reactjs.org"
-        className="banner-content header-content link"
-      >
+      <a href="http://reactjs.org"
+        className="banner-content header-content link">
         reactjs.org
         </a>
     </div>
