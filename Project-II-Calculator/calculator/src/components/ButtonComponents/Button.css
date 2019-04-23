@@ -132,7 +132,7 @@ table {
   cursor: pointer;
 }
 .btn:hover {
-  box-shadow: inset -5px -5px 50px maroon, inset 5px 5px 50px maroon;
+  box-shadow: inset -5px -5px 50px goldenrod, inset 5px 5px 50px #a0001e;
 }
 
 .num {
